@@ -1,1 +1,2 @@
 learning local git
+learning git pull
